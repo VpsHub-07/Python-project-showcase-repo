@@ -1,2 +1,3 @@
 # Python-project-showcase-repo
-I share my python projects here. Currently learning python from scratch
+I am currently learning python and building this repo here to show case my projects, and when I reach a certain level of proficiency
+maybe help some of you gellas out.
