@@ -7,3 +7,5 @@ maybe help some of you gellas out.
 2)tip_calculator- This project Calculates tips based on amount and number of people. Learnt basic data types and how to manipulate strings.
 
 3)rock_paper_scissor- Made a simple game while grasping basic fundamentals of is-else statement
+
+4)random_password_generator= This project generates password based on users choice. Learnt randomisation and loops.
