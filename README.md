@@ -9,3 +9,5 @@ maybe help some of you gellas out.
 3)rock_paper_scissor- Made a simple game while grasping basic fundamentals of is-else statement
 
 4)random_password_generator= This project generates password based on users choice. Learnt randomisation and loops.
+
+5)hangman_game-Mini hangman game. Learnt how to break complex problems into smaller pieces to complete my program.
