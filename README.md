@@ -13,3 +13,5 @@ maybe help some of you gellas out.
 5)hangman_game- Mini hangman game. Learnt how to break complex problems into smaller pieces to complete my program.
 
 6)caeser_cypher- Uses ceaser cypher to encode or decode a given message.
+
+7)higher_or_lower- Made this game by using many things i had learned up until now.
