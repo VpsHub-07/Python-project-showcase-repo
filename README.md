@@ -15,3 +15,5 @@ maybe help some of you gellas out.
 6)caeser_cypher- Uses ceaser cypher to encode or decode a given message.
 
 7)higher_or_lower- Made this game by using many things i had learned up until now.
+
+8)number_guessing_game- A simple game where u have to guess a number within limited tries
